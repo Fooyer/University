@@ -1,0 +1,12 @@
+#####################################################################
+#                                                                   #
+#    IMAGINE QUE CADA LINHA SEJA UMA CONSULTA DE ALGUM USUÁRIO      #
+#                                                                   #
+#####################################################################
+
+Teste
+testando 1
+testando 2
+vamos ver
+no que
+dá
