@@ -32,7 +32,3 @@ If you have any questions or would like to reach out for any reason, feel free t
 
 - Thanks to all the contributors who spend time to help improve and expand this repository.
 - Special thanks to the academic community for providing the challenges and opportunities to learn and grow.
-
----
-
-Respect copyrights. Issues or features? Email us at xneerd157@gmail.com. Use Link Reader in every tab? [Get it here.](https://sider.ai/lp/linkReader?source=lr&p1=vision&p2=lp)
